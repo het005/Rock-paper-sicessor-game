@@ -1,2 +1,2 @@
 # Rock-paper-sicessor-game
-i make rock-paper-sicessor game using html ,css ,js
+I have made a tic tac toe game in which I used html ,css ,js
